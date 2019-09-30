@@ -1,0 +1,13 @@
+FMTNAME,START,END,LABEL,MIN,MAX,DEFAULT,LENGTH,FUZZ,PREFIX,MULT,FILL,NOEDIT,TYPE,SEXCL,EEXCL,HLO,DECSEP,DIG3SEP,DATATYPE,LANGUAGE
+BFFRECBF,0,0,(0) Ego's female best friend didn't reciprocate as best friend,1,62,62,62,1e-12,,0,,0,N,N,N,,,,,
+BFFRECBF,1,1,(1) Ego's female best friend reciprocated as best friend,1,62,62,62,1e-12,,0,,0,N,N,N,,,,,
+BFFRECIP,0,0,(0) Ego's female best friend didnt reciprocate friend nomination,1,64,64,64,1e-12,,0,,0,N,N,N,,,,,
+BFFRECIP,1,1,(1) Ego's female best friend reciprocated friendship nomination,1,64,64,64,1e-12,,0,,0,N,N,N,,,,,
+BMFRECBF,0,0,(0) Ego's best male friend didn't reciprocate as best friend,1,60,60,60,1e-12,,0,,0,N,N,N,,,,,
+BMFRECBF,1,1,(1) Ego's best male friend reciprocated as best friend,1,60,60,60,1e-12,,0,,0,N,N,N,,,,,
+BMFRECIP,0,0,(0) Ego's best male friend didnt reciprocate friend nomination,1,62,62,62,1e-12,,0,,0,N,N,N,,,,,
+BMFRECIP,1,1,(1) Ego's best male friend reciprocated friendship nomination,1,62,62,62,1e-12,,0,,0,N,N,N,,,,,
+HAVEBFF,0,0,(0) Ego didn't nominate a female best friend,1,44,44,44,1e-12,,0,,0,N,N,N,,,,,
+HAVEBFF,1,1,(1) Ego nominiated a female best friend,1,44,44,44,1e-12,,0,,0,N,N,N,,,,,
+HAVEBMF,0,0,(0) Ego didn't nominate a male best friend,1,42,42,42,1e-12,,0,,0,N,N,N,,,,,
+HAVEBMF,1,1,(1) Ego nominiated a male best friend,1,42,42,42,1e-12,,0,,0,N,N,N,,,,,
